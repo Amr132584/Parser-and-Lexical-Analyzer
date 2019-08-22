@@ -1,0 +1,7 @@
+program example ( input , output );
+var x, y, greater: integer ; 
+var A, B, C : float; 
+array[1 .. 00] of float 
+function x (l , m : integer) : integer ;  var o, p, q, r, s, t: integer ; begin Z [M * 6] = x + 5 end;
+if x==5 then x=3 else x=1
+
